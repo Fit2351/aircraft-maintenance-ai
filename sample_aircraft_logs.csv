@@ -1,0 +1,5 @@
+Flight_Hours,Flight_Cycles,Engine_Vibration,Brake_Temperature,Hydraulic_Pressure,Days_Since_Last_Maintenance,Previous_Failure,Component_Failure_Next_30_Days
+3200,1600,2.9,270,3050,110,0,0
+2800,1300,3.3,300,2900,140,1,1
+4100,1900,2.4,240,3100,90,0,0
+3600,1700,3.1,290,2990,160,1,1
